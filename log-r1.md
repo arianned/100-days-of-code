@@ -1,14 +1,20 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Round 1 Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 29th 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on FreeCodeCamp's Frontend Certification and completed the Basic HTML & HTML5 unit. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I've done most of this unit before - they added a couple of new lessons as part of the new curriculum, so I'm mostly going over old ground today.
 
-**Link to work:** [Calculator App](http://www.example.com)
+I hadn't remembered that using a "#" in a `href` tag turns it into a dead link. That's good to know.
 
+`image` and `input` elements are self-closing. Got a few bits to add to my notes tomorrow, although some may already be in there.
+
+Tomorrow, back to CSS!
+
+**Link to work:** [FreeCodeCamp Introduction to Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+
+<!--
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
@@ -28,3 +34,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
