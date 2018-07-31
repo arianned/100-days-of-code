@@ -1,5 +1,19 @@
 # 100 Days Of Code - Round 1 Log
 
+### Day 2: July 31st 2018
+
+**Today's Progress:** Finished the CSS unit - began to learn more about creating pure CSS images.
+
+**Thoughts:** Interesting stuff tonight - the lessons I took at the end of this unit about creating and using custom CSS variables were all done via the use of pure CSS images, such as this one:
+![Pure CSS Penguin](images/css-penguin.jpg)
+
+I've seen similar things pop up online before, where people have been creating pure CSS images as part of their learning experience and *now I get what they mean and how they do it!* Well, not totally how, since I need to learn a lot more about CSS, but you get the idea. Will spend some time digging into this as I go through the front-end unit.
+
+Didn't get round to making any notes - unless I'm sat at a proper desk, I find that a little hard to do. If it comes to it, I have a day off on Friday so I can catch up then. It's quite interesting and inspiring to see what people are creating just with the aid of CSS. There were a ton of examples in [this article](https://code.likeagirl.io/100-days-of-code-challenge-completed-bbce87f04c00) from someone who completed 100 Days of Code and wrote about it on Medium.
+
+**Link to work:** [FreeCodeCamp Introduction to CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
+
+
 ### Day 1: July 30th 2018
 
 **Today's Progress:** Most of the FCC CSS unit.
