@@ -1,6 +1,18 @@
 # 100 Days Of Code - Round 1 Log
 
-### Day 2: July 31st 2018
+### Day 4: August 1st 2018
+
+**Today's Progress:** Got about half-way through the Applied Visual Design section.
+
+**Thoughts:** It's interesting how this unit seems to be purely CSS and I can see how a lot of what I would learn from this will help with building CSS images. Covering off things like transparency, positioning and layers will all be really important. I am going to have to make a butt-load of notes though. I flicked through my Jon Duckett HTML & CSS book last night and I couldn't see a huge amount that would apply to pure CSS images, but it might be a case of not really knowing what I'm looking at yet.
+
+It is exciting though - I'm looking forward to taking on some daily image challenges and seeing what I can come up with. I think there's some stuff coming up in the course (which I'll hopefully get to tomorrow) that will help when it comes to animations too.
+
+But I've managed 4 days on the trot now, which is the best I've done in a long time! That also feels nice... like I might actually make some progress and move on with things.
+
+**Links to work:** [Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
+
+### Day 3: July 31st 2018
 
 **Today's Progress:** Finished the CSS unit - began to learn more about creating pure CSS images.
 
@@ -14,7 +26,7 @@ Didn't get round to making any notes - unless I'm sat at a proper desk, I find t
 **Link to work:** [FreeCodeCamp Introduction to CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
 
-### Day 1: July 30th 2018
+### Day 2: July 30th 2018
 
 **Today's Progress:** Most of the FCC CSS unit.
 
@@ -24,7 +36,7 @@ Sad I couldn't get through the whole unit tonight, but I have to be up early in 
 
 **Link to work:** [FreeCodeCamp Introduction to CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
-### Day 0: July 29th 2018
+### Day 1: July 29th 2018
 
 **Today's Progress**: Worked on FreeCodeCamp's Frontend Certification and completed the Basic HTML & HTML5 unit. 
 
