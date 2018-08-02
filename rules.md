@@ -7,7 +7,7 @@
 29th July 2018
 
 ## Additional rules for me
-1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
+1. I will tweet/Instagram about my progress every day -> using the hashtag #100DaysOfCode
 2. I will encourage at least two other people every day.
 3. I will have Github commits every day so that anyone can see my progress.
 4. I will update the (Log)[log.md] with the day's progress and provide a link so that others can see my progress.

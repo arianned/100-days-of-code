@@ -1,5 +1,19 @@
 # 100 Days Of Code - Round 1 Log
 
+### Day 5: August 2nd 2018
+
+**Today's Progress:** Finished the FCC Applied Visual Design unit.
+
+**Thoughts:** I've loved finishing off the unit tonight - I covered off how to animate using CSS, using different animation properties, keyframes and bezier curves. I don't fully understand the bezier curve stuff, so I'll dig into that more, but it's been really fun to create shapes and animations tonight. Once I've written up my notes for these two units (which I hope to do tomorrow as I have the day off), I'm going to try my hand at some pure CSS images.
+
+In terms of my notes, I have a lovely [Code & Quill Monolith](https://www.codeandquill.com/products/monolith) that I've been using so far, but obviously it's not ideal for writing out huge chunks of CSS or HTML. I think I might have to play with making some notes digitally and then referring to them within my handwritten notes. I probably need to spend some time planning out exactly what to do.
+
+We also did a chunk about colour theory tonight, and I also learned about using hsl (hue, saturation, light) notation rather thn RBG or hex code. Lots to write up and get thinking about. The next unit is "Applied Accessibility", which focuses on how to keep content as accessible as possible. The next few units don't have a huge amount of lessons in, so with any luck in a few days I'll be onto the projects I need to complete to earn my Responsive Web Design Certification :) Buuut I also want to create some CSS images!
+
+While I've been using only Github and Github Pages to host stuff I've done in the past, I think there might be some value in setting up an account on Codepen too. Will think about that over the weekend.
+
+**Links to work:** [Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
+
 ### Day 4: August 1st 2018
 
 **Today's Progress:** Got about half-way through the Applied Visual Design section.
