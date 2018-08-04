@@ -1,10 +1,24 @@
 # 100 Days Of Code - Round 1 Log
 
+### Day 7: August 4th 2018
+
+**Today's Progress:** More notes made - finished off the Forms section in Jon Duckett' HTML book. Created my own form using the notes I made, based on one that was in the book.
+
+**Thoughts:** Doesn't feel like I've made much progress today because at first glance there isn't much to show for it. But, I did some actual coding - making a form similar to the one in the book. I'm not entirely sure the HTML they have in the book is totally correct - when it comes to the use of the `<label>` tag, some of what they wrote looked not-quite-right, but I did my best and the form works - even if it looks super boring without any CSS. Of course it took an age to do because I was using my Ergodox and trying to type in Colemak - I'm slowly getting there, but I am _slow_.
+
+Tomorrow, I'm hoping to finish off any last HTML notes and start on my notes for CSS. I'm wondering about a small side diversion in a few days, once I get through the rest of the FCC lessons in this certification. I came across an article - [a beginner's guide to making pure CSS images](https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2) and it turns out the same guy has turned it into a full course that you can take for free: [How to make pure CSS images](https://coding-artist.teachable.com/p/how-to-make-pure-css-images). I'm tempted to put down $5 and take it, and then try and make at least one CSS image every few days to practice those skills. After all, one of the FCC projects is to create a portfolio, but I need stuff to put on it, don't I?
+
+Unsure how much I'll get done tomorrow as I'm out for brunch and I'm going to shop for some new glasses I think.
+
+I do need to find an extension for VSCode that allows me to instantly preview HTML and CSS within the same window - having to save and refresh a browser is a bit clunky and not ideal for making CSS images - I guess this is why people use something like Codepen after all!
+
+**Links to work:** [Link to form I made](stuff/form.html)
+
 ### Day 6: August 3rd 2018
 
 **Today's Progress:** Lots of notes made on HTML from Jon Duckett's book
 
-**Thoughts:** Rather than lessons, I wanted to start getting caught up on note-taking. Even though today was technically a day off, due to having to do some work, going to meet a friend at lunch etc, I didn't end up starting tonight until 8:30. Despite that though, I've still made nearly 7 big pages of notes and once I'm done with this section on forms, I'll nearly be done with the HTML part of the book and then I can start making all my CSS notes. And then maybe I can have a go at creating some CSS images myself. 
+**Thoughts:** Rather than lessons, I wanted to start getting caught up on note-taking. Even though today was technically a day off, due to having to do some work, going to meet a friend at lunch etc, I didn't end up starting tonight until 8:30. Despite that though, I've done over 2 hours and made nearly 7 big pages of notes and once I'm done with this section on forms, I'll nearly be done with the HTML part of the book and then I can start making all my CSS notes. And then maybe I can have a go at creating some CSS images myself. 
 
 **Links to work:** [Instagram post](https://www.instagram.com/p/BmBsvNAh5kd/)
 
@@ -72,25 +86,3 @@ I hadn't remembered that using a "#" in a `href` tag turns it into a dead link. 
 Tomorrow, back to CSS!
 
 **Link to work:** [FreeCodeCamp Introduction to Basic HTML & HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
-
-<!--
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
--->

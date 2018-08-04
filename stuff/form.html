@@ -1,0 +1,46 @@
+<form>
+    <fieldset>
+        <legend>Your Details:</legend>
+        <label>Name:
+            <br/>
+            <input type="text" name="name" />
+        </label>
+        <br />
+        <label>Email:
+            <br/>
+            <input type="email" name="email" />
+        </label>
+        <br/>
+    </fieldset>
+    <br/>
+    <fieldset>
+        <legend>Your Review:</legend>
+        <p>
+            <label for="howdid">How did you hear about us?</label>
+            <select name="referrer" id="howdid">
+                <option value="google">Google</option>
+                <option value="recommendation">Recommendation</option>
+                <option value="magazine">Magazine</option>
+            </select>
+        </p>
+        <p>
+            Would you visit again?
+            <br />
+            <input type="radio" id="yes" name="rating" value="yes">
+            <label for="yes">Yes</label>
+            <input type="radio" id="no" name="rating" value="no">
+            <label for="no">No</label>
+            <input type="radio" id="maybe" name="rating" value="maybe">
+            <label for="maybe">Maybe</label>
+        </p>
+        <p>
+            <label for="comments">Comments</label>
+            <br />
+            <textarea id="comments" name="comments" cols="30" rows="6">Enter any comments</textarea>
+        </p>
+        <input type="checkbox" id="signup" value="signup" checked="checked">
+        <label for="signup">Sign me up for email updates</label>
+        <br/>
+        <input type="submit" value="Submit Review" />
+    </fieldset>
+</form>
