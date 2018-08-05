@@ -1,5 +1,15 @@
 # 100 Days Of Code - Round 1 Log
 
+### Day 8: August 5th 2018
+
+**Today's Progress:** Got through 65% of the Pure CSS course I linked to yesterday.
+
+**Thoughts:** Was out for a chunk of the day today and being around people and having to be social just completely destroyed my brain, so I wasn't too sure how much I'd be able to do today. Still, I put down the $5 for the Pure CSS course I mentioned yesterday and I've just gotten through a little over half of the videos this evening. I haven't made any notes yet as I wanted to watch and see how much made sense first, and make notes on a second watch-through.
+
+I understood a lot more than I expected and I think that between this course and the notes on CSS I need to make from FCC, I'll have discovered most of what I will need to be able to have a crack at making images myself. So while I'm a bit sad I didn't actually make anything today, I have learned stuff and am feeling good about the next few days. I'll get the course finished tomorrow and start on making all my CSS notes. Nice to be ending the day a lot more positive than I felt a couple of hours ago. I'll take that!
+
+**Links to work:** Here's the link to the course: [linky](https://coding-artist.teachable.com/p/how-to-make-pure-css-images). Nothing specific to show for the day unfortunately, which by some standards would make today a fail, but I have my own rules and I don't care!
+
 ### Day 7: August 4th 2018
 
 **Today's Progress:** More notes made - finished off the Forms section in Jon Duckett' HTML book. Created my own form using the notes I made, based on one that was in the book.
