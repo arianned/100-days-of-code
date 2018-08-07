@@ -1,5 +1,21 @@
 # 100 Days Of Code - Round 1 Log
 
+### Day 9: August 7th 2018
+
+**Today's Progress:** Finished Pure CSS Images course.
+
+**Thoughts:** You'll notice I skipped a day. I'd planned to code last night, but ended up having a hard day at work for different reasons and before I knew it, my brain had melted and I couldn't today.
+
+Today has also been a challenge - I'd planned to do some stuff at lunchtime - work and She Does Digital bits got in the way. I had a hospital appointment this evening (pre-op assessment for my arthroscopy) and got back after 8pm and had to sort food etc.
+
+I've sat down to finish off my Pure CSS course, only to find that Teachable is down because of a DDoS attack. So that's tonight's plan shot. 
+
+I went for a break... made lunch for tomorrow and got ready for bed and Teachable is back up! So I worked through the rest of the videos before bed. I seem to have done all of the best lessons on Day 8 - the lessons that were left were mostly watching different things be put together in real time and the animation lesson wasn't as full-featured as I wanted - I learned more from the FCC lessons on animation. But definitely worth the $5 for what I gained from the earlier sections of the course.
+
+On with note-taking tomorrow - I hope I have the brain for it!
+
+**Links to work:** [Pure CSS Images Video Course](https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
+
 ### Day 8: August 5th 2018
 
 **Today's Progress:** Got through 65% of the Pure CSS course I linked to yesterday.
