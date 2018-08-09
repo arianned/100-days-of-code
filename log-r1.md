@@ -1,5 +1,19 @@
 # 100 Days Of Code - Round 1 Log
 
+### Day 10: August 9th 2018
+
+**Today's Progess:** Completed the Applied Accessibility section of FCC
+
+**Thoughts:** I failed to code again yesterday. I've begun trying to use my CPAP machine again and for one reason and another I was extraordinarily tired. The combination of that and a hard day the day before, meant my brain was not in a good place. I've coded tonight, but also struggled. Post-CPAP I was slightly less tired today, but due to sensory overload today I've found this really tough and I've had a headache since early this afternoon.
+
+I've completed the accessibility bit on FCC - about making things accessible to those who use screenreaders, or navigate using solely a keyboard. Some good food for thought here.
+
+From this point on, it's onto responsive web design. That means CSS grid, Flexbox and then projects! So this weekend it's key for me to make all my HTML and CSS notes for so far, so I can crack on with this next section. 
+
+While I know I don't have to "make up" for the days I missed (you just do the day the next day, and your overall 100 days take longer), I'm still keen to cover off what I could have done in that lost time. I'll get back on track over the weekend, I'm sure. Maybe I'll even write a blog post or something?
+
+**Links to work:** [Applied Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)
+
 ### Day 9: August 7th 2018
 
 **Today's Progress:** Finished Pure CSS Images course.
