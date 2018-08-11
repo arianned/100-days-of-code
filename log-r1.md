@@ -1,8 +1,18 @@
 # 100 Days Of Code - Round 1 Log
 
+### Day 11: August 11th 2018
+
+**Today's Progress:** Began making notes on the FCC units completed so far.
+
+**Thoughts:** Getting super fed up of this migraine - it meant I couldn't work or do any coding yesterday and it's made it really difficult to do anything today. No idea what's causing it. It shouldn't be food - the only possible connection is starting up CPAP again, but that seems like the opposite thing that should happen? Hoping it goes overnight as I've got work I need to do tomorrow and I want to crack on and make up for some of the time I've lost - which is at least the 3 days I've missed, plus the hours where I've just not been able to be that productive.
+
+The plan is to make notes digitally, then distill that down into hand-written notes. 
+
+**Links to work** Notes I've been making can be found [here](stuff/notes.md)
+
 ### Day 10: August 9th 2018
 
-**Today's Progess:** Completed the Applied Accessibility section of FCC
+**Today's Progess:** Completed the Applied Accessibility section of FCC.
 
 **Thoughts:** I failed to code again yesterday. I've begun trying to use my CPAP machine again and for one reason and another I was extraordinarily tired. The combination of that and a hard day the day before, meant my brain was not in a good place. I've coded tonight, but also struggled. Post-CPAP I was slightly less tired today, but due to sensory overload today I've found this really tough and I've had a headache since early this afternoon.
 
